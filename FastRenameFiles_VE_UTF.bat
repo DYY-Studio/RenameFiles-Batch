@@ -27,6 +27,13 @@ set "from="
 set "to="
 set "log="
 
+set "test=aba"
+if not "%test:b=a%"=="aaa" (
+	echo [ERROR] 您的Windows系统版本太旧，不支持VE版本
+	pause
+	goto :EOF
+)
+
 echo [Ver] RenameFilesBatch END_UTF8
 echo [Use] CMD default
 echo [Dev] Copyright(c) 2019-2020 yyfll L:MIT
