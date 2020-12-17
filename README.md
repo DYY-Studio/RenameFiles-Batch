@@ -1,6 +1,12 @@
 # RenameFiles-Batch
 批量更改文件名，并没有什么用的批量处理程序
 
+## BUG
+### END Ver.2
+不能正确执行替换
+
+暂时请先使用稳定版：**VE**
+
 ## 最新发布
 ### 2020/05/03 END Ver.2 UTF8 NoBOM
 
