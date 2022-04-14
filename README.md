@@ -1,6 +1,9 @@
 # RenameFiles-Batch
 批量更改文件名，写来玩的、并没有什么用的批量处理程序
 
+## 推荐替代品
+[PowerToys (PowerRename) by Microsoft](https://github.com/microsoft/PowerToys)
+
 ## 已知问题
 ### V2
 搜索过滤只能自动套用而不能手动设置
